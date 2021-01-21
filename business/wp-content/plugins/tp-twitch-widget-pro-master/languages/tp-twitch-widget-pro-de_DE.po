@@ -1,0 +1,245 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Twitch for WordPress (Pro)\n"
+"POT-Creation-Date: 2020-04-30 16:38+0200\n"
+"PO-Revision-Date: 2020-04-30 16:38+0200\n"
+"Last-Translator: \n"
+"Language-Team: KryptoniteWP\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: tp-twitch-widget-pro.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SearchPathExcluded-1: assets\n"
+"X-Poedit-SearchPathExcluded-2: public\n"
+"X-Poedit-SearchPathExcluded-3: node_modules\n"
+
+#: includes/admin/class-plugin-updater.php:266
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+"Es ist eine neue Version von %1$s verfügbar. %2$sDetails zu Version %3$s "
+"ansehen%4$s."
+
+#: includes/admin/class-plugin-updater.php:274
+#, php-format
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+"Es ist eine neue Version von %1$s verfügbar. %2$sDetails zu Version %3$s "
+"ansehen%4$s oder %5$sjetzt aktualisieren%6$s."
+
+#: includes/admin/class-plugin-updater.php:517
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+"Du hast keine Berechtigung, um Aktualisierungen für Erweiterungen "
+"durchzuführen"
+
+#: includes/admin/class-plugin-updater.php:517
+msgid "Error"
+msgstr "Fehler"
+
+#: includes/admin/class-settings.php:42
+msgid "Licensing <small>(Pro Version)</small>"
+msgstr "Lizenzierung <small>(Pro-Version)</small>"
+
+#: includes/admin/class-settings.php:49
+msgid "License Status"
+msgstr "Lizenzstatus"
+
+#: includes/admin/class-settings.php:58
+msgid "License Key"
+msgstr "Lizenzschlüssel"
+
+#: includes/admin/class-settings.php:81
+msgid "Style (Shortcode)"
+msgstr "Style (Shortcode)"
+
+#: includes/admin/class-settings.php:90
+msgid "Size (Shortcode)"
+msgstr "Größe (Shortcode)"
+
+#: includes/admin/class-settings.php:99
+msgid "Preview (Shortcode)"
+msgstr "Vorschau (Shortcode)"
+
+#: includes/admin/class-settings.php:114
+msgid "Pro Version"
+msgstr "Pro-Version"
+
+#: includes/admin/class-settings.php:161
+msgid ""
+"Alternatively you can place Twitch streams directly inside the content of "
+"your posts and pages by making use of our prepred shortcodes."
+msgstr ""
+"Alternativ kannst du Twitch-Streams direkt in den Inhaltsbereich deiner "
+"Beiträge und Seiten platzieren, indem du unsere vorbereiteten Shortcodes "
+"verwendest."
+
+#: includes/admin/class-settings.php:164
+msgid "e.g."
+msgstr "z.B."
+
+#: includes/admin/class-settings.php:164
+msgid "or"
+msgstr "oder"
+
+#: includes/admin/class-settings.php:175
+msgid ""
+"In order to make use of our pro version and receive regularly updates, "
+"please enter your license key."
+msgstr ""
+"Im die Pro-Version des Plugins zu verwenden und regelmäßig Updates zu "
+"erhalten, bitte einen Lizenzschlüssel eingeben."
+
+#: includes/admin/class-settings.php:189
+msgid "Valid"
+msgstr "Gültig"
+
+#: includes/admin/class-settings.php:192
+msgid "Expired"
+msgstr "Abgelaufen"
+
+#: includes/admin/class-settings.php:195
+msgid "Invalid"
+msgstr "Ungültig"
+
+#: includes/admin/class-settings.php:198
+msgid "Failed."
+msgstr "Fehlgeschlagen."
+
+#: includes/admin/class-settings.php:201
+msgid "Disconnected"
+msgstr "Nicht verbunden"
+
+#: includes/admin/class-settings.php:223
+msgid "Check License"
+msgstr "Lizenz prüfen"
+
+#: includes/admin/class-settings.php:234
+msgid ""
+"Here you set up the default settings which will be used for displaying "
+"streams and may be overwritten individually."
+msgstr ""
+"Hier können Standard-Einstellungen vorgegeben werden, die zur Ausgabe der "
+"Streams verwendet werden. Die Vorgaben können in der Konfiguration der "
+"einzelnen Widgets überschrieben werden."
+
+#: includes/admin/plugins.php:23
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: includes/admin/plugins.php:51
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: includes/functions.php:21
+msgid "Name"
+msgstr "Name"
+
+#: includes/functions.php:22
+msgid "Game"
+msgstr "Spiel"
+
+#: includes/functions.php:23
+msgid "Viewer"
+msgstr "Zuschauer"
+
+#: includes/functions.php:24
+msgid "Views"
+msgstr "Aufrufe"
+
+#: includes/functions.php:36
+msgid "Ascending"
+msgstr "Aufsteigend"
+
+#: includes/functions.php:37
+msgid "Descending"
+msgstr "Absteigend"
+
+#: includes/hooks.php:78
+msgid "Dark"
+msgstr "Dunkel"
+
+#: includes/hooks.php:79
+msgid "Light"
+msgstr "Hell"
+
+#: includes/hooks.php:80
+msgid "Navy Blue"
+msgstr "Marineblau"
+
+#: includes/hooks.php:81
+msgid "Green"
+msgstr "Grün"
+
+#: includes/shortcodes.php:50
+msgid "Shortcode is not complete. Either add some streamer or game_id."
+msgstr ""
+"Der Shortcode ist nicht vollständig. Bitte entweder einen Streamer oder Game "
+"ID vorgeben."
+
+#: includes/widget.php:50
+msgid "Order by"
+msgstr "Sortieren nach"
+
+#: includes/widget.php:52 includes/widget.php:66
+msgid "Please select..."
+msgstr "Bitte wählen..."
+
+#: includes/widget.php:64
+msgid "Order"
+msgstr "Sortierung"
+
+#: templates/box.php:69 templates/box.php:98
+msgid "Offline"
+msgstr "Offline"
+
+#: tp-twitch-widget-pro.php:102 tp-twitch-widget-pro.php:114
+msgid "Cheatin&#8217; huh?"
+msgstr "Sie schummeln&#8217; oder?"
+
+#: tp-twitch-widget-pro.php:129
+#, php-format
+msgid ""
+"Please install the free version of <a href=\"%s\">TP Twitch Widget</a> which "
+"is required to run the PRO version."
+msgstr ""
+"Bitte installiere die kostenlose Basis-Version unseres <a href=\"%s\">Twitch "
+"Plugin’s</a>. Ohne, kann die Pro-Version nicht ausgeführt werden."
+
+#. Plugin Name of the plugin/theme
+msgid "Twitch for WordPress (PRO)"
+msgstr "Twitch for WordPress (PRO)"
+
+#. Plugin URI of the plugin/theme
+#, fuzzy
+#| msgid "https://kryptonitewp.com/downloads/tp-twitch-widget-pro/"
+msgid "https://kryptonitewp.com/downloads/twitch-wordpress-pro/"
+msgstr "https://kryptonitewp.com/downloads/tp-twitch-widget-pro/"
+
+#. Description of the plugin/theme
+msgid "Extending our free Twitch plugin with even more awesome features!"
+msgstr ""
+"Erweiterung unseres kostenloses Twitch Plugin’s mit weiteren tollen "
+"Funktionen!"
+
+#. Author of the plugin/theme
+msgid "KryptoniteWP"
+msgstr "KryptoniteWP"
+
+#. Author URI of the plugin/theme
+msgid "https://kryptonitewp.com"
+msgstr "https://kryptonitewp.com"
