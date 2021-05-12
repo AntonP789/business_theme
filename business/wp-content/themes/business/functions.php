@@ -95,3 +95,6 @@ set_post_thumbnail_size(9999,9999,TRUE);
 add_image_size( 'post-thumb', 124, 100, TRUE );
 // END BLOG SCRIPTS
 //include_once (get_template_directory() . '/includes/theme-options.php');
+
+// Fix Uploading URL
+update_option('upload_url_path', '/wp-content/uploads'); 
